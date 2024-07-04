@@ -1,0 +1,35 @@
+{
+  "quickcoords": {
+    "hotkeys": {
+      "clipboard": {
+        "success": "Coordinates copied to clipboard!"
+      }
+    },
+    "settings": {
+      "name": "QuickCoords",
+      "enabled": {
+        "name": "Enabled"
+      },
+      "format": {
+        "name": "Format"
+      },
+      "enableCommand": {
+        "name": "Enable Commands (/sendcoords & /sc)"
+      },
+      "clipboardKeys": {
+        "name": "Copy to Clipboard"
+      },
+      "enableChatPlaceholder": {
+        "name": "Enable Chat Placeholder"
+      },
+      "chatPlaceholder": {
+        "name": "Chat Placeholder"
+      },
+      "header": {
+        "chatPlaceholder": {
+          "name": "Chat Placeholder"
+        }
+      }
+    }
+  }
+}
